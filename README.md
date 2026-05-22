@@ -11,7 +11,7 @@
 
 ### 👩‍💻 About me
 
-Ingénieure cybersécurité avec un **M2 Cyberdéfense** (ISEN Hauts-de-France) et un **diplôme d'ingénieur en informatique** (ENSA El Jadida).  
+Ingénieure cybersécurité avec un **M2 Cyberdéfense** (INSA Hauts-de-France) et un **diplôme d'ingénieur en informatique** (ENSA El Jadida).  
 Spécialisée en sécurité défensive : détection d'incidents, analyse de logs, SIEM, et administration systèmes sécurisée.  
 J'aime construire des choses concrètes — mes projets sont fonctionnels et documentés ci-dessous.
 
