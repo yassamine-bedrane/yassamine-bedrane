@@ -65,9 +65,7 @@ J'aime construire des choses concrètes — mes projets sont fonctionnels et doc
   <a href="mailto:yassaminebedrane@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-yassaminebedrane@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://tryhackme.com/p/yb1nary">
-    <img src="https://img.shields.io/badge/TryHackMe-yb1nary-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
-  </a>
+ 
 </p>
 
 ---
